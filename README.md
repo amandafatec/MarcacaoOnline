@@ -3,6 +3,12 @@ O Marcador de Consultas é uma aplicação desenvolvida para facilitar o gerenci
 
 Com este sistema, é possível organizar informações essenciais dos atendimentos — como data, horário, paciente, status e observações — garantindo maior eficiência e reduzindo falhas no processo de marcação. A solução pode ser utilizada tanto por profissionais quanto por equipes administrativas que precisam coordenar múltiplos agendamentos.
 
-## xdgsdfgdfsgds
-hhhhhgg  ttgtghg
+## Funcionalidades Principais
+
+- Cadastro de consultas com informações completas
+- Listagem organizada por data
+- Edição e exclusão de consultas
+- Marcação de status (pendente, confirmada, concluída, cancelada)
+- Busca e filtros por paciente, data ou status
+- Interface objetiva e pensada para produtividade
 ### chfdfghgfdh
